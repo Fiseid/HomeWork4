@@ -1,0 +1,5 @@
+world = 'xc'
+if len(world)<2:
+	print('')
+else:
+	print(world[0:2] + world[-2:])
